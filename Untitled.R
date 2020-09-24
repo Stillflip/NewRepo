@@ -23,3 +23,6 @@ check_air_quality(40)
 
 check_air_quality(120)
 check_air_quality(320)
+
+aaa=21
+bbb=22
